@@ -37,5 +37,5 @@ client.on("messageCreate", message => {
 	  }
 
   });
-
+//nigger
 client.login(config.token);
